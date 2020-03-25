@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RupaGit/sp_avengers_game.git/static/css/main.9f9a60e0.chunk.css",
+    "main.js": "/RupaGit/sp_avengers_game.git/static/js/main.381c7c69.chunk.js",
+    "main.js.map": "/RupaGit/sp_avengers_game.git/static/js/main.381c7c69.chunk.js.map",
+    "runtime-main.js": "/RupaGit/sp_avengers_game.git/static/js/runtime-main.53366648.js",
+    "runtime-main.js.map": "/RupaGit/sp_avengers_game.git/static/js/runtime-main.53366648.js.map",
+    "static/js/2.b385a6e6.chunk.js": "/RupaGit/sp_avengers_game.git/static/js/2.b385a6e6.chunk.js",
+    "static/js/2.b385a6e6.chunk.js.map": "/RupaGit/sp_avengers_game.git/static/js/2.b385a6e6.chunk.js.map",
+    "index.html": "/RupaGit/sp_avengers_game.git/index.html",
+    "precache-manifest.d6510177231d61fedc5964c7b69e6dd3.js": "/RupaGit/sp_avengers_game.git/precache-manifest.d6510177231d61fedc5964c7b69e6dd3.js",
+    "service-worker.js": "/RupaGit/sp_avengers_game.git/service-worker.js",
+    "static/css/main.9f9a60e0.chunk.css.map": "/RupaGit/sp_avengers_game.git/static/css/main.9f9a60e0.chunk.css.map",
+    "static/js/2.b385a6e6.chunk.js.LICENSE.txt": "/RupaGit/sp_avengers_game.git/static/js/2.b385a6e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53366648.js",
+    "static/js/2.b385a6e6.chunk.js",
+    "static/css/main.9f9a60e0.chunk.css",
+    "static/js/main.381c7c69.chunk.js"
+  ]
+}
